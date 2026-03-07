@@ -23,11 +23,11 @@ This SOP exists because I've seen what happens when logistics
 runs on tribal knowledge and verbal updates. Miscommunication, 
 missed deliveries, finger-pointing when things go wrong. This 
 document creates ONE source of truth for how every shipment 
-is handled — from the moment an order is placed to the moment 
+is handled, from the moment an order is placed to the moment 
 it's signed, sealed, and closed out in the system.
 
 The goal is simple: every shipment tracked, every exception 
-documented, every stakeholder informed — automatically, 
+documented, every stakeholder informed, automatically, 
 consistently, and securely.
 
 ---
