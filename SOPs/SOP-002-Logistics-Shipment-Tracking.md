@@ -13,7 +13,7 @@
 ## 1. Purpose
 
 Shipments getting lost, delayed, or mishandled is not just an 
-operational inconvenience — it's a financial liability and a 
+operational inconvenience, it's a financial liability and a 
 security risk. Sensitive goods, confidential manifests, and 
 vendor contracts move through our supply chain every single day, 
 and without a structured tracking process, things fall through 
