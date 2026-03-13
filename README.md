@@ -1,7 +1,7 @@
 <h1 align="center">SmartOps Portfolio</h1>
 
 <p align="center">
-  AI-powered Project Management | Operations & Logistics | Cybersecurity-Aware
+  Self-Managed Project Management | Operations & Logistics | Cybersecurity-Aware
   <br/>
   <strong>Jewel Smith</strong> · PMP | CompTIA Sec+ | Google IT | M.S. Cybersecurity · Tampa, Florida
 </p>
